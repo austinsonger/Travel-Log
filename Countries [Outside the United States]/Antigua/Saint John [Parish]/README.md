@@ -1,5 +1,7 @@
 # Saint John
 
+# Duration of Stay
+
 ## Accommodation
 
 ## Dining

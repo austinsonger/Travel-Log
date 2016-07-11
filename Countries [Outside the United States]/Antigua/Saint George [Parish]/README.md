@@ -1,5 +1,7 @@
 # Saint George
 
+# Duration of Stay
+
 ## Accommodation
 
 ## Dining

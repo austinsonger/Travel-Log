@@ -1,5 +1,7 @@
 # Saint Peter
 
+# Duration of Stay
+
 ## Accommodation
 
 ## Dining

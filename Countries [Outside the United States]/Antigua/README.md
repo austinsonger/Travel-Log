@@ -1,5 +1,6 @@
 # Antigua
 
+# Duration of Stay
 
 ## Overview
 

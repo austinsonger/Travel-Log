@@ -1,5 +1,7 @@
 #  Saint Paul
 
+# Duration of Stay
+
 ## Accommodation
 
 ## Dining

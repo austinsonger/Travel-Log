@@ -1,5 +1,7 @@
 # Saint Mary
 
+# Duration of Stay
+
 ## Accommodation
 
 ## Dining
