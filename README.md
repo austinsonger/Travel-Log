@@ -1,7 +1,7 @@
 # Travel-Log
 
 
-## Bucket List of Places I wanted to Visit
+## Bucket List of Places I want to Visit
 
 - Germany
 
