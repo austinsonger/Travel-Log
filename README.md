@@ -2,7 +2,7 @@
 
 ### NOTE
 
-The Majority of these Place I haven't been to, but there are some that I have, but I have not updated those places as of yet, but I will as soon as I can.
+The Majority of these places I haven't been to yet, but there are some that I have, but I have not updated those places as of yet, but I will as soon as I can.
 
 ## Setup
 
