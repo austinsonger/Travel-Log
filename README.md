@@ -11,8 +11,5 @@ The Majority of these Place I haven't been to, but there are some that I have, b
 
 
 
-## Bucket List of Places I want to Visit
-
-
 
 #### Idea For Travel Comes From https://github.com/dylanegan/travel
