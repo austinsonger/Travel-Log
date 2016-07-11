@@ -6,7 +6,8 @@ The Majority of these Place I haven't been to, but there are some that I have, b
 
 ## Setup
 
-If you want to copy my setup and see how this is organized please navigate to the "Antigua" folder
+- **Countries [Outside the United States]** - If you want to copy my setup and see how this is organized please navigate to the "Antigua" folder
+- **United States**  - Please see the state Illinois for the example (Setup is different for the individual states within the United States then outside countries) [Still in the process of adding the rest of the individual states]
 
 
 
